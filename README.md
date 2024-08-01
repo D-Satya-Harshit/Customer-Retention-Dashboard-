@@ -3,7 +3,7 @@ Developed a comprehensive dashboard utilizing a call center dataset to execute a
 
 ![Customer Retention SS2](https://github.com/user-attachments/assets/529128c5-77dc-460d-ada3-4532c9e95506)
 
-The analysis included examining the distribution of these customers by gender, payment methods, and subscription types, offering valuable insights into customer demographics and behavior.
+The analysis included examining the distribution of these customers by gender, payment methods, offering valuable insights into customer demographics and behavior.
 
 ![Customer Retention SS 3](https://github.com/user-attachments/assets/55ab7306-7ed2-470f-b6c6-ff9948ddebd0)
 
